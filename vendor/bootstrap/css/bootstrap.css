@@ -6761,7 +6761,7 @@ button.close {
 }
 
 .skills-label {
-  font-size: 40px;
+  font-size: 36px;
 }
 
 .proj-sect {
@@ -6774,4 +6774,19 @@ button.close {
   height: 35%;
 
   margin-bottom: 20px;
+}
+.nps-about {
+  /*margin-top: -17%;*/
+}
+
+.nps-exp {
+  margin-top: -10%;
+}
+
+.skill-sect {
+  /*margin-top: -10%;*/
+}
+
+nps-contact {
+  margin-top: 10%;
 }
