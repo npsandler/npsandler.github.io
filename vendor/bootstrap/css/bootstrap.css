@@ -6755,3 +6755,23 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.large-icon {
+  font-size: 85px !important;
+}
+
+.skills-label {
+  font-size: 40px;
+}
+
+.proj-sect {
+  display: flex;
+  justify-content: space-between;
+}
+
+.demopic {
+  width: 35%;
+  height: 35%;
+
+  margin-bottom: 20px;
+}

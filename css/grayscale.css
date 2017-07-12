@@ -314,7 +314,3 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
-
-.large-icon {
-  font-size: 85px !important;
-}
