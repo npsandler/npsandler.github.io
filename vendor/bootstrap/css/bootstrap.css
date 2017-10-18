@@ -6784,6 +6784,10 @@ button.close {
   margin-top: -10%;
 }
 
+.proj-desc {
+  height: 65px;
+}
+
 .skill-sect {
   padding: 0 0 10% 0 ;
   width: 100%;
