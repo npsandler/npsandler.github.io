@@ -6771,13 +6771,13 @@ button.close {
 }
 
 .demopic {
-  width: 35%;
-  height: 35%;
+  width: 350px;
+  height: 250px;
 
   margin-bottom: 20px;
 }
 .nps-about {
-  padding-top: 15%; 
+  padding-top: 15%;
 }
 
 .nps-exp {
